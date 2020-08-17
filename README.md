@@ -13,7 +13,7 @@ Modeling integrated urban systems
 
 
 ## Requirements
-Python 3.6 (installation with Anaconda recommended)
+Python 2.7 (installation with Anaconda recommended)
 
 
 ## Contributing
